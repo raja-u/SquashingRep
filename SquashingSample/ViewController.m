@@ -18,6 +18,8 @@
     [super viewDidLoad];
     NSString *firstCommit = @"FirstCommit";
     NSString *secondCommit = @"SecondCommit";
+    NSString *testCommit1 = @"testcommit1";
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
